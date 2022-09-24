@@ -5,3 +5,10 @@ C:\Users\Asus\source\repos\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'i
 C:\Users\Asus\source\repos\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'ingresso.csproj.CoreCompileInputs.cache
 C:\Users\Asus\source\repos\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'ingresso.exe
 C:\Users\Asus\source\repos\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'ingresso.pdb
+C:\Users\Asus\Desktop\prova-d-ingresso\prova d'ingresso\prova d'ingresso\bin\Debug\prova d'ingresso.exe.config
+C:\Users\Asus\Desktop\prova-d-ingresso\prova d'ingresso\prova d'ingresso\bin\Debug\prova d'ingresso.exe
+C:\Users\Asus\Desktop\prova-d-ingresso\prova d'ingresso\prova d'ingresso\bin\Debug\prova d'ingresso.pdb
+C:\Users\Asus\Desktop\prova-d-ingresso\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'ingresso.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\prova-d-ingresso\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'ingresso.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\prova-d-ingresso\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'ingresso.exe
+C:\Users\Asus\Desktop\prova-d-ingresso\prova d'ingresso\prova d'ingresso\obj\Debug\prova d'ingresso.pdb
